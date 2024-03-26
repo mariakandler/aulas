@@ -1,44 +1,11 @@
-#head {
+header {
     text-align: center;
     padding: 2rem;
     background-color: hsl(289, 4%, 70%);
 }
 
-body {
-    background-color: hsl(289, 4%, 89%);
-}
-
-#img {
+#firstDivs > .div {
     display: inline-block;
-    margin-top: 2rem;
-    margin-inline: 3rem;
+    
 }
 
-#img img {
-    border-radius: 1rem;
-}
-
-#firstDivs {
-    padding-top:  2rem;
-    align-items: center;
-}
-
-.div {
-    display: inline-block;
-    margin-inline: 3rem;
-    padding: 0.5rem;
-    border-radius: 1rem;
-    background-color: hsl(289, 4%, 77%);
-}
-
-.divEnding {
-    display: inline-block;
-    margin-inline: 3rem;
-    padding: 0.5rem;
-    border-radius: 1rem;
-    background-color: hsl(240, 4%, 77%);
-}
-
-#ending {
-    padding: 4rem;
-}
